@@ -1,6 +1,8 @@
 # Site settings
 title: Zenodo Auto Serch Test Website
 description: JZenodo Automation is a Python script that connects to the Zenodo API to automate downloading files linked to two search criteria (author and community).
+baseurl: # the subpath of your site, e.g. /blog/
+url: "https://testwebproject.github.io" # the base hostname & protocol for your site
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
